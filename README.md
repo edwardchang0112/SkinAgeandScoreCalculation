@@ -1,2 +1,2 @@
 # SkinAgeandScoreCalculation
-Calculation of the skin age and score
+Calculation of the skin age and score based on related facial data
